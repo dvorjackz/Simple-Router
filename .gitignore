@@ -1,0 +1,6 @@
+*.o
+router
+*~
+.vagrant/*
+build/*
+.vscode/*
